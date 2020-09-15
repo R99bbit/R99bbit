@@ -2,7 +2,7 @@
 --
 ## Who Am I? 📌
 - 🧪 I'm `Information Security Researcher`
-- 🎓 I'm currently studying at `Chungnam National University`(**C**omputer **S**cience **E**ngineering)
+- 🎓 I'm currently studying at `Chungnam National University`(**C**omputer **S**cience And **E**ngineering)
 - 🔭 I'm currently working on <a href="http://bpsec.co.kr/">`BlackPerl Security`</a>
 - ⚔  I'm in a hacking club <a href='https://www.argos.or.kr/'>`"ARGOS"`</a>
 ## Interest 🔍
