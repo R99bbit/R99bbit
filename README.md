@@ -6,8 +6,9 @@
 - ⚔  I'm in a hacking club <a href='https://www.argos.or.kr/'>`"ARGOS"`</a>
 
 ## Interest 🔍
-- System `Exploit`
-- `Front-End` Application Dev. (react native, web, etc.)
+- `Cyber Security` and `Red Team Techniques`
+- `Frontend Dev.`
+- `Middleware`
 
 ## Contact 📞
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rjsdid7325@gmail.com)](mailto:rjsdid7325@gmail.com)
